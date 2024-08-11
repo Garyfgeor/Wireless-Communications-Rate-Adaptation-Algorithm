@@ -21,7 +21,7 @@
 - [Conclusion](#conclusion)
 - [References](#references)
 
-### Introduction
+## Introduction
 This project compares the L3S (Long-term Stability and Short-term Responsiveness) algorithm and the Minstrel algorithm for WLANs. L3S adjusts transmission rates based on real-time conditions, while Minstrel uses acknowledgment feedback and periodic probing.
 
 ## Algorithms
