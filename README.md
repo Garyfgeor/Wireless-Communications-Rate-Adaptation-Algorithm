@@ -2,9 +2,6 @@
 
 ## Practical Rate Adaptation for Very High Throughput WLANs
 
-### Introduction
-This project compares the L3S (Long-term Stability and Short-term Responsiveness) algorithm and the Minstrel algorithm for WLANs. L3S adjusts transmission rates based on real-time conditions, while Minstrel uses acknowledgment feedback and periodic probing.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -23,6 +20,9 @@ This project compares the L3S (Long-term Stability and Short-term Responsiveness
   - [Minstrel HT Algorithm](#minstrel-ht-algorithm)
   - [L3S Algorithm](#l3s-algorithm)
   - [Debugfs Interface](#debugfs-interface)
+
+### Introduction
+This project compares the L3S (Long-term Stability and Short-term Responsiveness) algorithm and the Minstrel algorithm for WLANs. L3S adjusts transmission rates based on real-time conditions, while Minstrel uses acknowledgment feedback and periodic probing.
 
 ## Algorithms
 
