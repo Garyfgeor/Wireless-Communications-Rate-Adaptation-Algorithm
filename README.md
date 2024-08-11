@@ -1,4 +1,4 @@
-# Wireless Communications Final Project
+# Wireless Communications Rate Adaptation Algorithm
 
 ## Practical Rate Adaptation for Very High Throughput WLANs
 
